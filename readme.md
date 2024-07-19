@@ -48,4 +48,4 @@ Two neuron groups with a fully connected synapse group from first group to secon
 
 - **Repetition and Analysis:** We repeated experiments with different parameters and connection patterns to validate results and provide comprehensive analyses of neuron population behaviors.
 
-For further inquiries or information, please reach out to us at [amiraliamini@ur.ac.ir 📨](mailto:amiraliamini@ur.ac.ir).
+For further inquiries or information, please reach out to me at [amiraliamini@ur.ac.ir 📨](mailto:amiraliamini@ur.ac.ir).
