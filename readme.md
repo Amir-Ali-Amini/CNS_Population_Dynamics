@@ -42,9 +42,7 @@ Two neuron groups with a fully connected synapse group from first group to secon
 - **Constructing Neural Networks:** We built networks comprising two excitatory neuron populations and one inhibitory neuron population, establishing interconnections among them.
 
 - **Simulating and Visualizing:** For each excitatory population, we simulated scenarios with varying input currents, ensuring differential strengths during each run. We depicted their activities through raster plots and visualized the collective behavior of all three populations.
-<!-- ![DecisionMaking](./someResults/DecisionMaking.png) -->
-<!-- ![![DecisionMaking](./someResults/loading.gif)](./someResults/DecisionMaking.png) -->
-![<img src="./someResults/loading.gif" width="100"/>](./someResults/DecisionMaking.png)
+![DecisionMaking](./someResults/DecisionMaking.png)
 
 - **Analyzing Membrane Potential Distribution:** We analyzed and plotted the distribution of membrane potentials throughout the simulation runs, examining how it influenced neuronal behaviors.
 
